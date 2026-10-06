@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 OPR/126.0.0.0">
   <diagram name="Página-1" id="ZxzhJ2LCY-V58GR0OGnX">
-    <mxGraphModel dx="2485" dy="898" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1721" dy="1371" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -229,7 +229,7 @@
         <mxCell id="onFlBJ5yipic-oQpyraE-69" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;fillStyle=solid;fillColor=#ffe6cc;strokeColor=#d79b00;" value="ID_Cliente" vertex="1">
           <mxGeometry height="50" width="70" x="60" y="920" as="geometry" />
         </mxCell>
-        <mxCell id="onFlBJ5yipic-oQpyraE-70" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;fillStyle=solid;fillColor=light-dark(#FFFFFF,#FFFFFF);fontColor=light-dark(#000000,#000000);" value="Bonificaciones" vertex="1">
+        <mxCell id="onFlBJ5yipic-oQpyraE-70" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;fillStyle=solid;fillColor=light-dark(#FFFFFF,#FFFFFF);fontColor=light-dark(#000000,#000000);" value="Fecha ingreso" vertex="1">
           <mxGeometry height="50" width="90" x="330" y="920" as="geometry" />
         </mxCell>
         <mxCell id="onFlBJ5yipic-oQpyraE-71" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;fillStyle=solid;fillColor=light-dark(#FFFFFF,#FFFFFF);fontColor=light-dark(#000000,#000000);" value="Nombre" vertex="1">
@@ -262,7 +262,7 @@
         <mxCell id="onFlBJ5yipic-oQpyraE-76" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="(1,N)" vertex="1">
           <mxGeometry height="30" width="60" x="210" y="274" as="geometry" />
         </mxCell>
-        <mxCell id="onFlBJ5yipic-oQpyraE-77" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="(1,N)" vertex="1">
+        <mxCell id="onFlBJ5yipic-oQpyraE-77" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="(1,1)" vertex="1">
           <mxGeometry height="30" width="60" x="530" y="273" as="geometry" />
         </mxCell>
         <mxCell id="onFlBJ5yipic-oQpyraE-78" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="(1,N)" vertex="1">
@@ -337,13 +337,13 @@
             <mxPoint x="360" y="780" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="onFlBJ5yipic-oQpyraE-104" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;fillStyle=solid;fillColor=light-dark(#FFFFFF,#FFFFFF);fontColor=light-dark(#000000,#000000);" value="Fecha Ingreso" vertex="1">
+        <mxCell id="onFlBJ5yipic-oQpyraE-104" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;fillStyle=solid;fillColor=light-dark(#FFFFFF,#FFFFFF);fontColor=light-dark(#000000,#000000);" value="Cantidad abonada" vertex="1">
           <mxGeometry height="50" width="70" x="746" y="1050" as="geometry" />
         </mxCell>
-        <mxCell id="onFlBJ5yipic-oQpyraE-105" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;fillStyle=solid;fillColor=#ffe6cc;strokeColor=#d79b00;" value="ID_Cliente" vertex="1">
-          <mxGeometry height="50" width="70" x="510" y="1050" as="geometry" />
+        <mxCell id="onFlBJ5yipic-oQpyraE-105" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;fillStyle=solid;fillColor=#ffe6cc;strokeColor=#d79b00;" value="ID_Bonificacion" vertex="1">
+          <mxGeometry height="50" width="100" x="503" y="1050" as="geometry" />
         </mxCell>
-        <mxCell id="onFlBJ5yipic-oQpyraE-106" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;fillStyle=solid;fillColor=light-dark(#FFFFFF,#FFFFFF);fontColor=light-dark(#000000,#000000);" value="Nombre" vertex="1">
+        <mxCell id="onFlBJ5yipic-oQpyraE-106" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;fillStyle=solid;fillColor=light-dark(#FFFFFF,#FFFFFF);fontColor=light-dark(#000000,#000000);" value="Mes-Año" vertex="1">
           <mxGeometry height="50" width="70" x="628" y="1050" as="geometry" />
         </mxCell>
         <mxCell id="onFlBJ5yipic-oQpyraE-111" edge="1" parent="1" source="onFlBJ5yipic-oQpyraE-105" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" target="onFlBJ5yipic-oQpyraE-98" value="">
@@ -365,7 +365,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="onFlBJ5yipic-oQpyraE-115" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="(0,N)" vertex="1">
-          <mxGeometry height="30" width="60" x="280" y="850" as="geometry" />
+          <mxGeometry height="30" width="60" x="280" y="840" as="geometry" />
         </mxCell>
         <mxCell id="onFlBJ5yipic-oQpyraE-116" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="(1,1)" vertex="1">
           <mxGeometry height="30" width="60" x="550" y="960" as="geometry" />
